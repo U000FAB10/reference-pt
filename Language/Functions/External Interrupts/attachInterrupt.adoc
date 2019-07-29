@@ -69,7 +69,7 @@ Para mais informações sobre interrupções, veja as http://gammon.com.au/inter
 `modo`: 	     define quando a interrupção deve ser ativada. Quatro constantes estão predefinidas como valores válidos: +
 
 * *LOW* acionar a interrupção quando o estado do pino for LOW, +
-* *CHANGE* acionar a interrupção quando o sempre estado do pino mudar +
+* *CHANGE* acionar a interrupção sempre que o estado do pino mudar +
 * *RISING* acionar a interrupção quando o estado do pino for de LOW para HIGH apenas, +
 * *FALLING* acionar a interrupção quando o estado do pino for de HIGH para LOW apenas. +
 
